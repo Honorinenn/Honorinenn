@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...Javascript,java, python and C#
 - 🤔 I’m looking for help with ...AWS
 - 💬 Ask me about ...Programming
-- 📫 How to reach me: ...Honorinenn, honorinendzah@yahoo.com
+- 📫 How to reach me: ...Honorinenn, honorinendzah@gmail.com
 - 😄 Pronouns: ...Her/She
 - ⚡ Fun fact: ...Improving as I go
 -->
