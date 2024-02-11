@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Programming
 - 📫 How to reach me: ...@Honorinenn, honorinendzah@gmail.com
 - 😄 Pronouns: ...Her/She
-- ⚡ Fun fact: ...Improving as I go
+- ⚡ Fun fact: ...Learn and improve everyday
 -->
